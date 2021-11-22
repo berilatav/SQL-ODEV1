@@ -1,5 +1,5 @@
 # SQL-ODEV1
-Where Operatörü
+Where Operatörü (Postgre SQL - pgAdmin tablosuna göre yapılmıştır.)
 ## 
 1) SELECT title,description FROM film;
 2) SELECT * FROM film
